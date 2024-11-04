@@ -1,5 +1,11 @@
-# Project Structure
-![image](https://github.com/Wuthery/.github/assets/61446626/d646e2a1-7e7b-476a-8c8d-1b30d4b73e51)
+# About Wuthery
+
+We are a small team, developing apps, bots, scripts and programs, related to the Wuthering Waves game since its release.
+
+Our projects:
+- [Website where you can search for other players](https://wuthery.com)
+- [All assets, dumped from the game](https://files.wuthery.com)
+- [A Python API wrapper to interact with Game/Kurolab API](https://github.com/wuthery/kuro.py)
 
 # Links
-- [Discord server](https://discord.gg/5XuxvHJPZY)
+- [Discord server](https://discord.gg/rKrbqz5utj)
